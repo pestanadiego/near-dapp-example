@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/near-dapp-example/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/near-dapp-example/static/js/main.217c397b.chunk.js",
+    "main.js.map": "/near-dapp-example/static/js/main.217c397b.chunk.js.map",
+    "runtime-main.js": "/near-dapp-example/static/js/runtime-main.63570b34.js",
+    "runtime-main.js.map": "/near-dapp-example/static/js/runtime-main.63570b34.js.map",
+    "static/css/2.8e921793.chunk.css": "/near-dapp-example/static/css/2.8e921793.chunk.css",
+    "static/js/2.089b98cf.chunk.js": "/near-dapp-example/static/js/2.089b98cf.chunk.js",
+    "static/js/2.089b98cf.chunk.js.map": "/near-dapp-example/static/js/2.089b98cf.chunk.js.map",
+    "static/js/3.2178d50a.chunk.js": "/near-dapp-example/static/js/3.2178d50a.chunk.js",
+    "static/js/3.2178d50a.chunk.js.map": "/near-dapp-example/static/js/3.2178d50a.chunk.js.map",
+    "index.html": "/near-dapp-example/index.html",
+    "static/css/2.8e921793.chunk.css.map": "/near-dapp-example/static/css/2.8e921793.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/near-dapp-example/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.089b98cf.chunk.js.LICENSE.txt": "/near-dapp-example/static/js/2.089b98cf.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/near-dapp-example/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpg": "/near-dapp-example/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63570b34.js",
+    "static/css/2.8e921793.chunk.css",
+    "static/js/2.089b98cf.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.217c397b.chunk.js"
+  ]
+}
